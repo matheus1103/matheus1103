@@ -1,16 +1,11 @@
 <h1 align="center">Matheus Lima</h1>
 <h3 align="center">Dev em aprendizagem👨🏿‍💻</h3>
 
-- 🌱 Tô aprendendo **ReactJs**
-
-- 💬 Chama ai sobre **react**
-
 - 📫 Contato **matheusfrancisco1103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/matheusflima_" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="matheusflima_" height="30" width="30" /></a>
-</p>
 <a href="https://instagram.com/matheussfrl" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="matheussfrl" height="30" width="30" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
