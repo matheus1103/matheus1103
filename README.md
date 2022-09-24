@@ -1,7 +1,9 @@
 <h1 align="center">Matheus Lima</h1>
 <h3 align="center">Dev em aprendizagem👨🏿‍💻</h3>
 
-- 📫 Contato **matheusfrancisco1103@gmail.com**
+- 👨‍💻 Trabalhando atualmente como dev Fullstack
+- 📝 Estudando Golang e Python
+- 📫 Contato: **matheusfrancisco1103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,15 +18,4 @@
 
   <a href="https://github.com/matheus1103">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1103&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</div>
-
-
-<div>
-  <a href="https://github.com/matheus1103">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus1103&repo=final-DB&show_icons=true&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/matheus1103">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus1103&repo=go-studies&show_icons=true&theme=tokyonight" />
-  </a>
 </div>
