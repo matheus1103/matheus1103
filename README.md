@@ -4,10 +4,6 @@
 - 👨‍💻 Trabalhando atualmente como dev Fullstack NodeJs e JQuery
 - 📝 Estudando Golang e Python
 - 📫 Contato: **matheusfrancisco1103@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
 <div>
   <a href="https://github.com/matheus1103">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus1103&show_icons=true&theme=tokyonight" />
