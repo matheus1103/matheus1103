@@ -8,8 +8,6 @@
 <div style="display: flex; flex-direction: row; ">
   <a href="https://github.com/matheus1103">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus1103&show_icons=true&theme=transparent&layout=compact&count_private=false" />
-  </a>
-  <a href="https://github.com/matheus1103">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1103&layout=compact&theme=transparent&count_private=false" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1103&layout=compact&theme=transparent&count_private=false" />
   </a>
 </div>
