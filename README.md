@@ -1,7 +1,7 @@
 # Hi, I'm Matheus 👋
 
 I'm a Computer Engineering graduate and Software Engineer with 3 years of
-experience in backend and full-stack development, mainly focused on building
+experience in backend and full-stack development based in Brazil, mainly focused on building
 scalable, resilient, and high-performance systems. I also have a strong personal
 interest in embedded systems and low-level programming.
 
@@ -16,7 +16,7 @@ interest in embedded systems and low-level programming.
 ### 🛠️ Technologies & Tools
 
 #### Backend & Software Engineering
-- **Languages:** TypeScript, Python, C#, Java, SQL
+- **Languages:** TypeScript, Python, C#
 - **Frameworks:** .NET Core, Node.js, Express.js, Spring Boot
 - **Architecture:** REST APIs, Microservices, Distributed Systems
 - **Testing:** Unit & Integration Tests, TDD
@@ -36,12 +36,6 @@ interest in embedded systems and low-level programming.
 - CI/CD pipelines
 - Linux
 - Agile (Scrum & Kanban)
-
-### 📌 Selected Experience & Projects
-- Investment portfolio monitoring systems with real-time data processing
-- Backend microservices for financial analytics and alerting
-- Cloud-based data processing pipelines and automations
-- Embedded projects for data acquisition and integration with backend services
 
 ### 📫 Contact
 - LinkedIn: https://linkedin.com/in/matheusfrlima
