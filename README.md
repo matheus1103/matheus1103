@@ -17,7 +17,7 @@ interest in embedded systems and low-level programming.
 
 #### Backend & Software Engineering
 - **Languages:** TypeScript, Python, C#
-- **Frameworks:** .NET Core, Node.js, Express.js, Spring Boot
+- **Frameworks:** .NET Core, Node.js, Express.js
 - **Architecture:** REST APIs, Microservices, Distributed Systems
 - **Testing:** Unit & Integration Tests, TDD
 
