@@ -12,8 +12,8 @@ and reliable systems. I also have a strong personal interest in embedded systems
 - 🧠 Strong background in software architecture and clean code
 
 ### 🛠️ Tech Stack
-- **Backend:** TypeScript, Python, C#, Java, SQL
-- **Frameworks:** .NET Core, Node.js, Spring Boot
+- **Backend:** TypeScript, Python, C#, SQL
+- **Frameworks:** .NET Core, Node.js
 - **Databases:** PostgreSQL, SQL Server, MongoDB
 - **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes
 - **Practices:** REST APIs, Microservices, TDD, CI/CD
