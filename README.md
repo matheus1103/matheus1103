@@ -1,43 +1,28 @@
 # Hi, I'm Matheus 👋
 
 I'm a Computer Engineering graduate and Software Engineer with 3 years of
-experience in backend and full-stack development based in Brazil, mainly focused on building
-scalable, resilient, and high-performance systems. I also have a strong personal
-interest in embedded systems and low-level programming.
+experience in backend and full-stack development, focused on building scalable
+and reliable systems. I also have a strong personal interest in embedded systems.
 
 ### 🚀 About Me
-- 🎓 Bachelor's degree in Computer Engineering (UFSC)
-- 💼 Software Engineer with experience in financial and technology sectors
-- 🧩 Backend-focused, working with APIs, microservices, and cloud infrastructure
-- ☁️ Hands-on experience with AWS and Azure
-- 🔌 Embedded systems enthusiast (ESP32, sensors, signal acquisition)
-- 🧠 knowledge in software architecture and clean code practices
+- 🎓 B.Sc. in Computer Engineering (UFSC)
+- 💻 Backend-focused Software Engineer (financial & tech sectors)
+- ☁️ Experience with cloud infrastructure (AWS, Azure)
+- 🔌 Embedded systems enthusiast (ESP32, C/C++)
+- 🧠 Strong background in software architecture and clean code
 
-### 🛠️ Technologies & Tools
-
-#### Backend & Software Engineering
-- **Languages:** TypeScript, Python, C#
-- **Frameworks:** .NET Core, Node.js, Express.js
-- **Architecture:** REST APIs, Microservices, Distributed Systems
-- **Testing:** Unit & Integration Tests, TDD
-
-#### Data & Cloud
-- **Cloud:** AWS (Lambda, S3, EC2, RDS), Azure
-- **Databases:** PostgreSQL, SQL Server, Oracle, MongoDB
-- **Data:** ETL pipelines, data processing, BI dashboards
-
-#### Embedded Systems
-- **Hardware:** ESP32, sensors, ADCs
-- **Languages:** C/C++
-- **Focus:** Signal acquisition, hardware–software integration
-
-#### Tools & Practices
-- Git, GitHub, Docker, Kubernetes
-- CI/CD pipelines
-- Linux
-- Agile (Scrum & Kanban)
+### 🛠️ Tech Stack
+- **Backend:** TypeScript, Python, C#, Java, SQL
+- **Frameworks:** .NET Core, Node.js, Spring Boot
+- **Databases:** PostgreSQL, SQL Server, MongoDB
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes
+- **Practices:** REST APIs, Microservices, TDD, CI/CD
 
 ### 📫 Contact
+- LinkedIn: https://linkedin.com/in/matheusfrlima
+- GitHub: https://github.com/matheus1103
+
+#### 📫 Contact
 - LinkedIn: https://linkedin.com/in/matheusfrlima
 - GitHub: https://github.com/matheus1103
 - Email: matheusfrancisco1103@gmail.com
