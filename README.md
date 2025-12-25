@@ -1,7 +1,7 @@
 # Hi, I'm Matheus 👋
 
 I'm a Computer Engineering graduate and Software Engineer with 3 years of
-experience in backend and full-stack development, focused on building scalable
+experience in backend and full-stack development based in Brazil, focused on building scalable
 and reliable systems. I also have a strong personal interest in embedded systems.
 
 ### 🚀 About Me
@@ -17,10 +17,6 @@ and reliable systems. I also have a strong personal interest in embedded systems
 - **Databases:** PostgreSQL, SQL Server, MongoDB
 - **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes
 - **Practices:** REST APIs, Microservices, TDD, CI/CD
-
-### 📫 Contact
-- LinkedIn: https://linkedin.com/in/matheusfrlima
-- GitHub: https://github.com/matheus1103
 
 #### 📫 Contact
 - LinkedIn: https://linkedin.com/in/matheusfrlima
